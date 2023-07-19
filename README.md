@@ -8,5 +8,8 @@ Examen 12 juli0 2023
 ![Captura3](https://github.com/SxntX1623/EXAMEN-HTML/assets/127440542/ab5f4024-3b73-4ff8-a400-48eb9dd2e360)
 ## CAPTURA NÚMERO 4
 ![Captura4](https://github.com/SxntX1623/EXAMEN-HTML/assets/127440542/568f6922-a77b-4fb6-b48d-b3d9e63641ec)
-
+## CAPTURA NÚMERO 5
+![Captura5](https://github.com/SxntX1623/EXAMEN-HTML/assets/127440542/11cca712-2949-416a-a13a-8d2d5033f1f7)
+## CAPTURA NÚMERO 6
+![Captura6](https://github.com/SxntX1623/EXAMEN-HTML/assets/127440542/6d705079-cc16-4e08-bac5-26265ef756b4)
 
